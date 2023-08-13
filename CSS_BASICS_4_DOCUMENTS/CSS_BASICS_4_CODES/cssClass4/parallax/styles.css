@@ -1,16 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-#wrapper{
+#wrapper {
     height:100vh;
     overflow-x: hidden;
     perspective: 10px;
 }
 
-.container{
+.container {
     position:relative;
     height: 100%;
     display:flex;
@@ -36,7 +36,7 @@
     z-index:-1;
 }
 
-h1{
+h1 {
     position: absolute;
     top:5rem;
 
